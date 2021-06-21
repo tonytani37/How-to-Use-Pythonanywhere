@@ -17,3 +17,6 @@ Pythonの勉強でWEBで動くヤツを作ってみたんだが、ローカル�
  んで、ほかにも無料で利用できるサービスが無いかと探してみると見つかったのが「Pythonanywhere」というサービスだったので、こっちも使おうとしてみたんだけど使い方がよくわからない。なので早速ググってみたわけです。
 
 <a href="https://www.pythonanywhere.com/">Host, run, and code Python in the cloud: PythonAnywhere</a>
+
+以下誠意作成中
+
