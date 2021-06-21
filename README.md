@@ -18,5 +18,8 @@ Pythonの勉強でWEBで動くヤツを作ってみたんだが、ローカル�
 
 <a href="https://www.pythonanywhere.com/">Host, run, and code Python in the cloud: PythonAnywhere</a>
 
+
+<img src="img/20210620005318.png" alt="海の写真" title="空と海">
+
 以下誠意作成中
 
